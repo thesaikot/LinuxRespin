@@ -4,19 +4,11 @@ Fork of remastersys - updates
 This tool is used to backup your image, create distributions, create live cd/dvds.
 install respin
 
-If you are using Ubuntu - you need to install xresprobe. There are debs in the Ubuntu folder. Alternately:
-
-wget http://security.ubuntu.com/ubuntu/pool/universe/x/xresprobe/xresprobe_0.4.24ubuntu9_amd64.deb
-dpkg -i xresprobe_*ubuntu9_amd64.deb
-apt-get install -y dialog casper libdebian-installer4 ubiquity-frontend-debconf user-setup discover
-apt-get -fy install
-git clone https://github.com/ch1x0r/LinuxRespin.git
-dpkg -i LinuxRespin/ubuntu/respin_1.1.0-1_all.deb
-
-To uninstall, run:
-sudo apt-get remove respin
-or sudo apt-get purge respin 
-(if you are using sudo)
+If you are using Ubuntu - Consider switching to Debian.
+This is not for Ubuntu.
+Debian.
+In the past, Ubuntu packages, dependency information and such was available. Thanks to a few choice words by some Ubuntu users, that changed on July 25, 2017!
+Thank you.
 
 There is a gui available. I will post this soon. 
 Using the gui, you can change the boot screen. 
