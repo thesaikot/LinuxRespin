@@ -10,6 +10,14 @@ Debian.
 In the past, Ubuntu packages, dependency information and such was available. Thanks to a few choice words by some Ubuntu users, that changed on July 25, 2017!
 Thank you.
 
+u·bun·tu
+ˌo͝oˈbo͝on(t)o͞o/
+noun
+Definition: I cannot configure Debian.
+Sentence use: I could care less about community - I use Ubuntu! 
+booya - more like boooooooo yea
+See also: Ughbuntu
+
 There is a gui available. I will post this soon. 
 Using the gui, you can change the boot screen. 
 
