@@ -5,7 +5,7 @@ This tool is used to backup your image, create distributions, create live cd/dvd
 install respin
 
 If you are using Ubuntu - Consider switching to Debian.
-This is not for Ubuntu.
+This is NOT for Ubuntu.
 Debian.
 In the past, Ubuntu packages, dependency information and such was available. Thanks to a few choice words by some Ubuntu users, that changed on July 25, 2017!
 Thank you.
@@ -14,9 +14,12 @@ u·bun·tu
 ˌo͝oˈbo͝on(t)o͞o/
 noun
 Definition: I cannot configure Debian.
-Sentence use: I could care less about community - I use Ubuntu! 
+
+Sentence use: I do not care about community - I use Ubuntu! 
+
 booya - more like boooooooo yea
-See also: Ughbuntu
+
+See also: Ughbuntu or Uhbuntu
 
 There is a gui available. I will post this soon. 
 Using the gui, you can change the boot screen. 
