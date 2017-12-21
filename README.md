@@ -140,5 +140,6 @@ Remember to build a community around your distro if that is what you want.
 Customizing and creating distro can be fun and challenging. Also, this is a great way to learn more about distros and GNU Linux!
 
 
-
-
+OPTIMIZING:
+Is this relevant still... maybe
+"Consider disabling Plymouth. If userspace boots in less than 1s, a boot splash is hardly useful, hence consider passing plymouth.enable=0 on the kernel command line. Plymouth is generally quite fast, but currently still forces settling device enumerations for graphics cards, which is slow. Disabling plymouth removes this bit of the boot." freedesktop.org
